@@ -1,0 +1,56 @@
+{
+	"name": "mavensmate",
+	"displayName": "mavensmate",
+	"description": "MavensMate Salesforce plugin for the Visual Studio Code editor",
+	"version": "2.1.0",
+	"publisher": "DavidHelmer",
+	"repository": "https://github.com/kidtsunami/MavensMate-VisualStudioCode",
+	"homepage": "http://mavensmate.com/",
+	"bugs": {
+		"url": "https://github.com/joeferraro/MavensMate/issues"
+	},
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.1.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"*"
+	],
+	"main": "./out/src/extension",
+	"contributes": {},
+	"scripts": {
+		"vscode:prepublish": "tsc -p ./",
+		"compile": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "node ./node_modules/vscode/bin/test"
+	},
+	"dependencies": {
+		"axios": "^0.16.1",
+		"bluebird": "3.5.0",
+		"global": "^4.3.1",
+		"moxios": "^0.4.0",
+		"path": "0.12.7",
+		"url-join": "2.0.1"
+	},
+	"devDependencies": {
+		"@types/bluebird": "3.5.0",
+		"@types/mocha": "2.2.41",
+		"@types/nock": "8.2.1",
+		"@types/node": "^6.0.70",
+		"@types/sinon": "2.1.0",
+		"coveralls": "^2.11.14",
+		"expect.js": "0.3.1",
+		"nock": "8.2.1",
+		"sinon": "2.1.0",
+		"typescript": "2.2.2",
+		"vscode": "^1.1.30"
+	},
+	"__metadata": {
+		"id": "582dd58b-d4d8-496b-8128-3a7a5972b070",
+		"publisherId": "808d969e-7487-4438-9e30-9cb89c6e5421",
+		"publisherDisplayName": "David Helmer"
+	}
+}

@@ -1,0 +1,13 @@
+{
+    "orgId": "00DN0000000S5axMAC",
+    "accessToken": "8d0c3deae7c1567ee5597237eaa1cbbad07e7b943c742416b9cf0fc44dc28bc218103ad8ad92abc9269a6a2af06bb0bd83282bf567f023a76dc5e776ea8a7c17e5007de41bd5b3d3aa5e502647dbb14341237f32a0a94febf78b5c09547ae36dde870c4677d9317bd43f04d259ef9f0a298b3433d7f8:dbeb57219ac82f6585bd784c071e94b0",
+    "refreshToken": "bcfcc6a9e72ad3cd926810122f9f902ff1f8181db425e9dca50f74b1cb64772be35ce4458b11f7f1d6c8ce150c096d380ec53cc5186414bfee231e45e10dca03ec65cce2449e57235aeab3dc1937cbc5283116a84e838587e6aa5a61fd:2746b4367c8fc7821e7aa0d93f8ed68b",
+    "instanceUrl": "https://site-customization-7451-dev-ed.cs6.my.salesforce.com/",
+    "loginUrl": "https://CS6.salesforce.com",
+    "username": "test-vetsw4trxxwr@example.com",
+    "clientId": "PlatformCLI",
+    "createdOrgInstance": "CS6",
+    "created": "1594913691814",
+    "devHubUsername": "dilwar48@gmail.com",
+    "expirationDate": "2020-07-23"
+}

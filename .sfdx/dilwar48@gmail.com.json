@@ -1,0 +1,9 @@
+{
+    "orgId": "00D28000000sBkREAU",
+    "accessToken": "8003ab334fa6f64def1d578a172feefe4d4319da952ee49420c20e45aa03f0e99dfa35ca9f9e74ad20a617131b1f764d76470b49aef0946b9aa7552d9c5b726d89688ef78324c1b9e7fe785ff5fb7b047d1edb20a449d892b7f3e1f5b0d3899bb5789ca257cd30851726a7402a022c991b5c0f0d603a:b4f82cf76e4db54a3eecd90b4ce14e8e",
+    "refreshToken": "5d2120f3aae2a133ac3b0fc0262bc0bbe783d7fc129402443d3711efa348550ae16370bd7df3e37c81d30942489441b96e345ee891a955be466be9039a8a8b38d0d3d38b0ec0cafe13d9168f0cd515449a68495bef43557e7e76a315d9:49d216ede1288b70ee209c0453019f8f",
+    "instanceUrl": "https://dilwarhussain-dev-ed.my.salesforce.com",
+    "loginUrl": "https://login.salesforce.com/",
+    "username": "dilwar48@gmail.com",
+    "clientId": "PlatformCLI"
+}

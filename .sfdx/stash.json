@@ -1,0 +1,12 @@
+{
+    "SOURCE_DEPLOY": {
+        "jobid": "0Af0K00000hcOCiSAM"
+    },
+    "MDAPI_RETRIEVE": {
+        "jobid": "09S0K000005t8XOUAY",
+        "retrievetargetdir": "C:\\Users\\dhussain\\AppData\\Local\\Temp\\sdx_sourceRetrieve_1586242666910"
+    },
+    "MDAPI_DEPLOY": {
+        "jobid": "0AfN0000014HcWhKAK"
+    }
+}
